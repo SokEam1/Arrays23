@@ -1,0 +1,15 @@
+C:\Users\Student\repos\Arrays23\Arrays23\obj\Debug\net6.0\Arrays23.csproj.AssemblyReference.cache
+C:\Users\Student\repos\Arrays23\Arrays23\obj\Debug\net6.0\Arrays23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\repos\Arrays23\Arrays23\obj\Debug\net6.0\Arrays23.AssemblyInfoInputs.cache
+C:\Users\Student\repos\Arrays23\Arrays23\obj\Debug\net6.0\Arrays23.AssemblyInfo.cs
+C:\Users\Student\repos\Arrays23\Arrays23\obj\Debug\net6.0\Arrays23.csproj.CoreCompileInputs.cache
+C:\Users\Student\repos\Arrays23\Arrays23\bin\Debug\net6.0\Arrays23.exe
+C:\Users\Student\repos\Arrays23\Arrays23\bin\Debug\net6.0\Arrays23.deps.json
+C:\Users\Student\repos\Arrays23\Arrays23\bin\Debug\net6.0\Arrays23.runtimeconfig.json
+C:\Users\Student\repos\Arrays23\Arrays23\bin\Debug\net6.0\Arrays23.dll
+C:\Users\Student\repos\Arrays23\Arrays23\bin\Debug\net6.0\Arrays23.pdb
+C:\Users\Student\repos\Arrays23\Arrays23\obj\Debug\net6.0\Arrays23.dll
+C:\Users\Student\repos\Arrays23\Arrays23\obj\Debug\net6.0\refint\Arrays23.dll
+C:\Users\Student\repos\Arrays23\Arrays23\obj\Debug\net6.0\Arrays23.pdb
+C:\Users\Student\repos\Arrays23\Arrays23\obj\Debug\net6.0\Arrays23.genruntimeconfig.cache
+C:\Users\Student\repos\Arrays23\Arrays23\obj\Debug\net6.0\ref\Arrays23.dll
